@@ -49,4 +49,4 @@ Para mais informações, entre em contato:
 
 - **Nome**: Antonio Araújo
 - **Email**: antonioaraujolb@gmail.com
-- **GitHub**: [Seu Perfil](https://github.com/seuusuario)
+- **GitHub**: github.com/antonioaraujoseginfo
